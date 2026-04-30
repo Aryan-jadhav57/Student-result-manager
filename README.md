@@ -53,4 +53,3 @@ This project is ideal for **beginners learning Python basics** such as loops, co
 
 ---
 
-👉 Would you like me to also add **badges** (Python version, license, repo size) and a **screenshots/demo section** so your README looks even more professional and visually appealing?
